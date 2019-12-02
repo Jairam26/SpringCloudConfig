@@ -17,6 +17,9 @@ public class MainController {
     // See: app-about-company.properties
     @Value("${text.copyright: Default Copyright}")
     private String copyright;
+    
+    
+    
  
     @Value("${spring.datasource.driver-class-name}")
     private String driverClassName;
