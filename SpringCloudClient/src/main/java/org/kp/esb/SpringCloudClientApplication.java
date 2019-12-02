@@ -8,6 +8,11 @@ public class SpringCloudClientApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudClientApplication.class, args);
+		
+		
+		
+		
+		
 	}
 
 }
