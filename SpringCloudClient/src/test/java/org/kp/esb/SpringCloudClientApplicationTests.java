@@ -11,6 +11,7 @@ public class SpringCloudClientApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Im here");
 	}
 
 }
